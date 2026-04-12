@@ -1,0 +1,6 @@
+pyspark==4.1.1
+pandas
+matplotlib
+seaborn
+wordcloud
+scikit-learn
