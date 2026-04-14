@@ -15,7 +15,7 @@ Intelligently categorizes over 2,400 resumes into 24 diverse job categories usin
 - **Machine Learning**: Logistic Regression and Naive Bayes classifiers via Spark MLLib.
 
 ## 📁 Repository Contents
-1. `Resume_Classification_PySpark.ipynb`: Main Jupyter Notebook with EDA, Pipeline, and Model Evaluation.
+1. `BDA_IA.ipynb`: Main Jupyter Notebook with EDA, Pipeline, and Model Evaluation.
 2. `requirements.txt`: Python dependencies optimized for the latest environments.
 3. `dataset/`: The Resume dataset (CSV and partitioned raw files).
 
@@ -43,7 +43,7 @@ Intelligently categorizes over 2,400 resumes into 24 diverse job categories usin
 
 ### Running the Notebook
 ```bash
-jupyter notebook Resume_Classification_PySpark.ipynb
+jupyter notebook BDA_IA.ipynb
 ```
 
 ## 📈 Results
